@@ -1,0 +1,4 @@
+Отправляем все стандартные дескрипторы
+> Start
+> >Dd1m>D1F
+         m>Dd1m>Dd2m>Dd2m>Ddm>Ddm>Ddm>Ddm>DCm>Ddm>Ddm
