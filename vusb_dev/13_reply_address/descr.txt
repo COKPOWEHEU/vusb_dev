@@ -1,0 +1,5 @@
+отправляем примитивные отчеты (IN - DATA1(без данных) - ACK)
+> Start
+> >Dd>Dd>Dd>Dd>Dd>Dd>Dd>Dd>Dd>Dd>Dd>Dd>D2E
+                                        >Dd>Dd>Dd>Dd>Dd>Dd>D2F
+                                                              >Dd>Dd>Dd>Dd>Dd>Dd
