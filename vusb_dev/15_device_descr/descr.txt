@@ -1,0 +1,7 @@
+отправляем дескриптор устройства
+> Start
+> >Dd1m>D1B
+         m>Dd1m>Dd2m>Dd2m>Dd2m>Dd1m>D1C
+                                       m>Dd1m>Dd2m>Dd2m>Dd2m>D1D
+                                                                m>Dd1m>Dd1m>Dd2m>Dd2m>Dd2m>D1E
+         m>Dd1m>Dd1m>Dd2m>Dd2m>Dd2m
