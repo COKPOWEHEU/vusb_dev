@@ -1,0 +1,6 @@
+продолжаем сортировать пакеты, уже по подтипу
+> Start
+> >Dd>Dd>Dd>Dd>Dd>Dd>Dd>Dd>Dd>Dd>Dd>Dd>D2A
+                                        >D2A
+                                            >D2B
+                                                >D2B
